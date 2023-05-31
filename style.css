@@ -1,0 +1,19 @@
+.corpo {
+    background-color: rgba(157, 19, 255, 0.416);
+    text-align: center;
+    font-size: large;
+}
+
+.subtitle{
+text-align: right;
+}
+
+.subtitle2{
+    text-align: left;
+    }
+    
+.textos {
+background-color: rgb(220, 153, 254);
+filter: opacity(80%);
+
+}
